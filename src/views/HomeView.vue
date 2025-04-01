@@ -1,8 +1,11 @@
-<script setup>
-</script>
-
-<template>
-  <main>
-
-  </main>
+<template lang="">
+  <div>
+  
+  </div>
 </template>
+<script setup>
+
+</script>
+<style lscoped>
+
+</style>
